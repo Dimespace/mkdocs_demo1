@@ -1,0 +1,10 @@
+site_name: My McDocs Demo
+site_url: https://dimespace.github.io/mkdocs-demo1/
+theme:
+  name: material
+  site_author: DimeSpace
+  copyright: Имя Фамилия, 2026 
+  markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
